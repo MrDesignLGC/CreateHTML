@@ -26,11 +26,9 @@
               CE({cn:"cn1",text:"3"}),
   
               CE({},[
-                  CE({},[
                   CE({type:"img",id:"img1",attr:{"src":"../images/i.png"}}),
                   CE({type:"input",attr:{"name":"n1"}}),
                   CE()
-                  ]),
               ]),
   
           ]),
